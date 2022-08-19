@@ -1,2 +1,1 @@
-# Dining-Reviews
-Portfolio Project
+# Dining Reviews Spring Boot API Project
